@@ -82,8 +82,112 @@
     src="https://raw.githubusercontent.com/KTejash/KTejash/output/github-snake.svg">
 </picture>
 
+## 📂 PROJECTS.DASHBOARD
+
+<p align="center">
+  <i>./projects.sh --featured</i>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/KTejash/AgriVision-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=AgriVision-AI&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KTejash/Date-and-Time--Event-Scheduler">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=Date-and-Time--Event-Scheduler&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KTejash/Dragons_Quest_Complete_RPG_Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=Dragons_Quest_Complete_RPG_Game&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KTejash/cpu_simulator_algorithm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=cpu_simulator_algorithm&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KTejash/DeepLearning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=DeepLearning&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KTejash/Iris-Flower-Classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KTejash&repo=Iris-Flower-Classification&theme=tokyonight"/>
+</a>
+
+</p>
+
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KTejash&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 </p>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tejasharyan550@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tejash-singh01" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KTejash" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/TejashKrSingh/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/its_me_tejashsingh" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+## 📫 Contact
+
+```text
+👨‍💻 Name        : Tejash Kumar
+📧 Email       : tejasharyan550@gmail.com
+💼 LinkedIn    : linkedin.com/in/tejash-singh01
+💻 GitHub      : github.com/KTejash
+🧩 LeetCode    : leetcode.com/u/TejashKrSingh
+📷 Instagram   : @its_me_tejashsingh
+🌐 Portfolio   : Coming Soon...
+🚀 Status      : Open to Internships & Full-Stack / AI-ML Opportunities
+
+## 💼 Open to Opportunities
+
+```text
+🚀 AI/ML Engineer
+💻 Full-Stack Developer
+🌱 Open Source Contributor
+📍 Bihar, India
+📧 tejasharyan550@gmail.com
+
+
+---
+
+## ⭐ Footer
+
+```markdown
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💜 If you like my work, consider **⭐ starring** my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=KTejash&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
