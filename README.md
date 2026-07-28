@@ -1,16 +1,14 @@
-## Hi there 👋
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KTejash/KTejash/main/Banner%20Dark.svg">
 
-<!--
-**KTejash/KTejash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KTejash/KTejash/main/Banner%20Light.svg">
 
-Here are some ideas to get you started:
+  <img
+    alt="Tejash Kumar"
+    src="https://raw.githubusercontent.com/KTejash/KTejash/main/Banner%20Light.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
