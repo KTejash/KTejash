@@ -57,12 +57,6 @@
   <img src="https://streak-stats.demolab.com?user=KTejash&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KTejash&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
 ## 📈 Contribution Graph
 
 [![Tejash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KTejash&theme=tokyo-night&hide_border=true)](https://github.com/KTejash)
