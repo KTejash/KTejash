@@ -164,7 +164,7 @@
 📷 Instagram   : @its_me_tejashsingh
 🌐 Portfolio   : Coming Soon...
 🚀 Status      : Open to Internships & Full-Stack / AI-ML Opportunities
-
+```
 ## 💼 Open to Opportunities
 
 ```text
@@ -173,21 +173,29 @@
 🌱 Open Source Contributor
 📍 Bihar, India
 📧 tejasharyan550@gmail.com
-
-
+```
 ---
 
-## ⭐ Footer
+<h3 align="center">💜 Thanks for visiting my profile 💜</h3>
 
-```markdown
----
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories!
+</p>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/KTejash">
+<img src="https://img.shields.io/github/followers/KTejash?label=Follow&style=for-the-badge"/>
+</a>
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=KTejash&label=Visitors&color=8B5CF6&style=for-the-badge"/>
 
-💜 If you like my work, consider **⭐ starring** my repositories.
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=KTejash&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+<p align="center">
+Made with ❤️ by <strong>Tejash Kumar</strong>
+</p>
 
-</div>
+
+
+
