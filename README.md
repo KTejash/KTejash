@@ -57,3 +57,33 @@
   <img src="https://streak-stats.demolab.com?user=KTejash&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KTejash&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Tejash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KTejash&theme=tokyo-night&hide_border=true)](https://github.com/KTejash)
+
+
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KTejash/KTejash/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KTejash/KTejash/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KTejash/KTejash/output/github-snake.svg">
+</picture>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KTejash&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+</p>
