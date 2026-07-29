@@ -191,5 +191,7 @@ Made with ❤️ by <strong>Tejash Kumar</strong>
 </p>
 
 
-
+<p align="center">
+Thank You ❤️ <strong>
+</p>
 
