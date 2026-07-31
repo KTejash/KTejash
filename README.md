@@ -25,7 +25,15 @@
 - 🌱 Learning Cloud, System Design, and Full-Stack Development
 - 🎯 Looking for Software Engineering & AI/ML Internship opportunities
 
+## 🛠️ Tech Stack
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,react,nextjs,tailwind,bootstrap,fastapi,nodejs,express,tensorflow,pytorch,opencv,sklearn,postgres,mysql,mongodb,docker,aws,git,github,linux,vscode,postman,figma&perline=10" />
+</p>
+
+<p align="center">
+<a href="https://www.geeksforgeeks.org/user/tejashkrsingh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 <a href="https://github.com/KTejash">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -39,11 +47,6 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,react,nextjs,tailwind,bootstrap,fastapi,nodejs,express,tensorflow,pytorch,opencv,sklearn,postgres,mysql,mongodb,docker,aws,git,github,linux,vscode,postman,figma&perline=10" />
 </p>
 
 ## 📊 GitHub Stats
